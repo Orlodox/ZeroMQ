@@ -21,15 +21,7 @@ namespace ZMQ
 
         string ReqRepClient(string address, string message)
         {
-            //
-            // Hello World client
-            // Connects REQ socket to tcp://127.0.0.1:5559
-            // Sends "Hello" to server, expects "World" back
-            //
-            //
-
-            // Socket to talk to server
-
+           // Socket to talk to server
             string answer = "Error";
             using (var context = new ZContext())
             using (var requester = new ZSocket(context, ZSocketType.REQ))
