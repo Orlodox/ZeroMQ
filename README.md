@@ -24,3 +24,6 @@ ZeroMQ - это библиотека обмена сообщениями (Messag
   
   - Запустить файл ZMQ.sln (требуется Visual Studio)
   ![](https://github.com/Orlodox/ZeroMQ/blob/master/IMG/Screenshot_3.png)
+  
+  - В запущенном окне нажать"Пуск"
+  ![](https://github.com/Orlodox/ZeroMQ/blob/master/IMG/Screenshot_4.png)
